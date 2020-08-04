@@ -1,0 +1,26 @@
+Navigation = Website's Header
+navbar-branch: Show your company's logo
+toggle: lật (bấm vào thẻ div hiện ra, bấm lần nữa thẻ div biến mất,...)
+collapse: Click -> hide by moving
+thuộc tính id: link các thẻ div với nhau
+ml-auto = Automatically margin left
+!important = This is important, use this!
+hover = Move your mouse in
+4 images, index 0 -> 3
+display-1: biggest, display-4: smallest
+MediaQuery = Setting for specific devide's sizes
+Jumbotron = Marketing messages on your Website
+1rem = 1 "font-size"
+col-12 = Merge 12 columns for all sizes
+<hr>: đặt đường kẻ nằm ngang
+a = 0.6 = "alpha" = "opacity"
+i = icon
+fa = FontAwesome, fab = FontAwesome Brand
+my = margin by Y(vertical)
+1em = 16px
+img-fluid: là 1 thuộc tính của bootstrap cho phép reponsive ảnh
+col-sm-6 = "Small" size, merges 6 columns
+col-md-3 = "Medium" size, merges 3 columns
+card = Contains image, person's name,...
+br = Line break
+color = "text color"
